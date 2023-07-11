@@ -11,17 +11,17 @@ DARK BLUE: #1D3557
 body {
     margin: 0px;
     text-align: center;
-    /* background-color: #F1FAEE; */
-    /* font-family: myFirstFont; */
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
     background: linear-gradient(#86CB92, #457B9D);
     
 }
+
 @font-face {
     font-family: myFirstFont;
     src: url(images/LemonJelly.ttf);
 }
+
 .hero-sec{
     background-image: url("https://lagostojozi.com/wp-content/uploads/2021/08/Lagos-facts.jpg");
     background-size: cover;
